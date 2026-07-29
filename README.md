@@ -75,7 +75,7 @@ Globa Financial Analysis Dashboa_202607300006_1.png - final dashboard screenshot
 Requirements: Power BI Desktop installed (free download from Microsoft) -this file will not open in Power BI Service or a browser without it.
 
 Steps to open the dashboard:
-Download `Globa Financial Analysis Dashboard.pbix` from this repo (click the file, then the download icon, or use "Add file → this file" via the raw link)
+Download Globa Financial Analysis Dashboard` from this repo (click the file, then the download icon, or use "Add file → this file" via the raw link)
 Open Power BI Desktop on your computer
 Go to File → Open Report, then select the downloaded `.pbix` file
 The report will open with all pages, visuals, and the data model intact
@@ -91,13 +91,16 @@ On Page 1, use the Country and Segment slicers at the top to filter the whole pa
 Hover over any chart to see tooltips with exact values
 Click a bar, segment, or country to cross-filter the rest of the visuals on the page
 
-Note: if any visuals appear blank or show an error when the file is first opened, it's usually because Power BI is trying to refresh a data source it can't find on your machine — right-click the affected visual or check Transform Data → Data Source Settings to reconnect if needed.
-
+Note: if any visuals appear blank or show an error when the file is first opened, it's usually because Power BI is trying to refresh a data source it can't find on your machine  right-click the affected visual or check Transform Data → Data Source Settings to reconnect if needed.
 ## Connect With Me
-Portfolio: komobolaji20-droid.github.io
+Portfolio: [komobolaji20-droid.github.io](https://komobolaji20-droid.github.io)
 
-GitHub: github.com/komobolaji20-droid
+GitHub: [github.com/komobolaji20-droid](https://github.com/komobolaji20-droid)
 
-Email: Komobolaji20@gmail.com
+Email: [Komobolaji20@gmail.com](mailto:Komobolaji20@gmail.com)
 
-WhatsApp: 09135972094
+WhatsApp: [09135972094](https://wa.me/2349135972094)
+
+
+
+
